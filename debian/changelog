@@ -1,4 +1,4 @@
-on-imagebuilder (2.95.0) UNRELEASED; urgency=low
+on-imagebuilder (2.96.0) UNRELEASED; urgency=low
 
   * Initial release
   * release 1.0.0
@@ -103,5 +103,6 @@ on-imagebuilder (2.95.0) UNRELEASED; urgency=low
   * release 2.93.0
   * release 2.94.0
   * release 2.95.0
+  * release 2.96.0
 
- -- rackhd <rackhd@emc.com>  Thu, 15 Mar 2018 21:01:00 +0000
+ -- rackhd <rackhd@emc.com>  Fri, 16 Mar 2018 01:01:35 +0000
